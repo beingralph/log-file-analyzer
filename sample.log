@@ -1,0 +1,6 @@
+2025-09-18 10:10:01 INFO Server started
+2025-09-18 10:11:15 ERROR Failed to connect to database
+2025-09-18 10:12:05 INFO Request handled
+2025-09-18 10:12:45 ERROR Timeout on API request
+2025-09-18 10:14:32 FAIL Authentication error for user admin
+2025-09-18 10:15:10 INFO User logged out

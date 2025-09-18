@@ -64,7 +64,7 @@ By practicing on this demo, one gains familiarity with **log analysis**, **regex
 
 ## 🔹 Example Screenshot
 
-(Add a terminal screenshot of the script output here)
+![Log File Analyzer demo screenshot](screenshot.png)
 
 ---
 
